@@ -1,4 +1,8 @@
 # Test Repo
 
-Description here
+Outline here
 ---------------------------------
+
+## Detailed Information
+
+Some more text here, for testing purposes only...
