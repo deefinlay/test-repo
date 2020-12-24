@@ -5,4 +5,5 @@ Outline here
 
 ## Detailed Information
 
-Some more text here, for testing purposes only...
+Just a test repo...
+Testing bash commits as well as adding and use of ssh keys
